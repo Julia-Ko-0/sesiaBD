@@ -1,0 +1,21 @@
+.NavHeder{
+    position: absolute;
+    top: max(100px,10%) ;
+    right: max(50px,5%);
+    background-color: #9ab8ad;
+    visibility: hidden;
+}
+.NavHeder.active{
+    visibility: visible;
+}
+.Filtrs{
+    visibility: hidden;
+}
+.Filtrs.active{
+    visibility: visible;
+}
+body{
+   
+        background-color: #9ab8ad;
+ 
+}

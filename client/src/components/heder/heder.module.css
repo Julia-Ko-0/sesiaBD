@@ -1,0 +1,17 @@
+.Heder{
+
+    display: flex;
+    justify-content: space-between;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: max(20px,1%);
+    padding-bottom: max(20px,1%);
+    background-color: #fb7806;;
+    color: #588273 ;
+    
+}
+.hederIcon{
+    display: inline;
+    width: min(5%,50px);
+}
+
